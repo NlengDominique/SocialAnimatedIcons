@@ -4,7 +4,7 @@ Un ensemble élégant de boutons de médias sociaux avec des effets de survol an
 
 ## 🎥 Aperçu
 
-![Aperçu des boutons sociaux](images/socials.webm)
+![Aperçu des boutons sociaux](images/preview.png)
 
 ## ✨ Fonctionnalités
 
